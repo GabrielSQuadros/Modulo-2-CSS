@@ -1,0 +1,55 @@
+
+
+/*CSS = Folha de Estilo em  CASCATA
+
+*/
+
+
+
+/*
+#titulo{
+    background: greenyellow;
+    color: black;
+}
+
+#paragrafo{
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#botao{
+    font-size: 30px;
+    background: yellow;
+    border-color: azure;                       
+}
+*/
+
+/*. = para utilizar as class.*/
+/* # = para usar o ID.
+/*bold = negrito no CSS.
+
+/*
+
+*{
+    background: goldenrod;
+} 
+ /*
+ 
+ 
+ 
+ 
+ /*h1 {
+    color: brown;
+    background: black;
+  }
+
+  p {
+    color: blue;
+    font-size: 20px;
+  }
+
+  button {
+    background: grey;
+    border-color: darkgray;
+  }/*

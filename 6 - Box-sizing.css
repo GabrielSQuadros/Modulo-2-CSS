@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background: #FF012345;
+    border: 10px solid #075fe4;
+}
+
+
+
+/* BOX SIZING  = vai controlar o comportamento do width e height*/
+/*border-box = ele não deixa a box crescer de tamanho caso aumente seus parametros*/
+/*content-box = soma os valores e faz a box crescer*/

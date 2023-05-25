@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 5px 5px 10px yellow;
+}
+
+p{
+    color: blue;
+    font-size: 25px;
+    font-weight:lighter;
+    font-family: 'Catamaran', sans-serif;
+    font-style: oblique;
+    line-height: 60px;
+    letter-spacing: 20px;
+    word-spacing: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: overline;
+    text-shadow: 10px 10px 10px #FF0000;
+}
+
+/* font-weight = espesura da fonte.*/
+/*line-height = altura das linhas*/
+/*font-style = estilo da fonte*/
+/*letter-spacing = espaçamento das letras*/
+/*word-spacing = espaçamento entre palavras*/
+/*text-align = alinhamento do texto.*/
+/*text-transform = para deixar ou todas as letras maiusculas ou todas minusculas.*/
+/*text-decoration = decoração de texto.*/
+/*text-shadow = Sombra no texto. contendo 4 elementos = sombra na horizontal,
+sombra na vertical, quão esfumaçado sera a sombra e por ultimo cor. */
+
